@@ -44,7 +44,7 @@ class UserSettingsScreen extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         const Text(
-                          'Wasim Zaman',
+                          'Faysal Zaman',
                           style: TextStyle(
                             color: Colors.white,
                             fontSize: 18,
@@ -53,7 +53,7 @@ class UserSettingsScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 4),
                         Text(
-                          'wasimxaman13@gmail.com',
+                          'faysalzuman00@gmail.com',
                           style: TextStyle(
                             color: Colors.grey[300],
                             fontSize: 14,
@@ -61,7 +61,7 @@ class UserSettingsScreen extends StatelessWidget {
                         ),
                         const SizedBox(height: 2),
                         Text(
-                          '+923005447070',
+                          '+923005667070',
                           style: TextStyle(
                             color: Colors.grey[300],
                             fontSize: 14,
